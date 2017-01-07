@@ -46,4 +46,4 @@ A hacer Zips y a combinar cadenas.
 
 ## SESIÓN 13: 
 
-Hemos aprendido a editar texto utilizando MarDown (md)
+Hemos aprendido a editar texto utilizando Markdown (md)
